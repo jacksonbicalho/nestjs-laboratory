@@ -1,0 +1,15 @@
+*/node_modules*
+/dist
+*.yml
+
+
+*Dockerfile*
+*test.Dockerfile*
+*.env*
+*.git*
+
+Dockerfile
+example.docker-compose.yml
+Makefile
+exemple.env
+docker-compose.yml
